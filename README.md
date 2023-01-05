@@ -4,10 +4,6 @@
  • <a href="#-tech-stack">Tech Stack</a>  
 </p>
 
-<p align="center">
-  <img src='https://i.ibb.co/8PSYRBL/Shopware-Cover-final.png' />
-</p>
-
 ## 💻 About
 
 PrimeFlix - Lista de filmes consumindo a API do TheMovieDB, permitindo favoritar.
