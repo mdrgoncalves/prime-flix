@@ -26,6 +26,3 @@ The following tools were used in the construction of the project:
 -   **[Typescript](https://www.typescriptlang.org/docs/)**
 -   **[ReactJS](https://reactjs.org/docs/getting-started.html)**
 -   **[Axios](https://axios-http.com/docs/intro)**
-
----
-
